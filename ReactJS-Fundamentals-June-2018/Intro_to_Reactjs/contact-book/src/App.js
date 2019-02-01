@@ -1,10 +1,10 @@
 import React from 'react';
 import './App/style/app.css';
 import Contacts from './App/contacts';
-import ReactDOM from './index';
+import rerender from './index';
 
 function showDetails(data) {
-	ReactDOM.render(App(data), document.getElementById('root'));
+	rerender(App(data), document.getElementById('root'));
 }
 
 const details = (data) => {
