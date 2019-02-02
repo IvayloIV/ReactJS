@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+.warper{
+  display: inline-block;
+  position: relative;
+}
+
+.warper .sliderImg{
+  max-height: 400px;
+}
+
+.warper .slider-button{
+  position: absolute;
+  top:50%;
+  transform:translateY(-50%);
+  width: 150px;
+  height: 150px;
+}
+
+.warper .case-left {
+  left: 0;
+}
+.warper .case-right {
+  right: 0;
+}
+
+.gallery {
+  width: inherit;
+  height: inherit;
+}
+
+.image-block {
+  margin: 1rem;
+  width: 100%;
+  height: 20rem;
+  border: 3px solid orange;
+}
+
+.characters {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.Bio-episode {
+  width: 50%;
+  margin: 0 auto;
+  border: 2px solid black;
+  padding: 1rem 2.5rem;
+  margin-bottom: 2rem;
+}
+
+.Bio-episode img {
+  width: 50%;
+}
