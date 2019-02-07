@@ -5,3 +5,4 @@
 1. [**Intro to React.js**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-June-2018/Intro_to_Reactjs)
 2. [**Components**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-June-2018/Components)
 3. [**Events and Forms**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-June-2018/Events_and_Forms)
+4. [**Routing and Architecture**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-June-2018/Routing_and_Architecture)
