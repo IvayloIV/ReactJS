@@ -3,6 +3,7 @@
 ---
 ## <b>ReactJS Fundamentals - February 2019</b>
 1. [**Intro to React.js**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-February-2019/Intro_to_Reactjs)
+2. [**Components**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-February-2019/Components)
 
 ## <b>ReactJS Fundamentals - June 2018</b>
 1. [**Intro to React.js**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-June-2018/Intro_to_Reactjs)
