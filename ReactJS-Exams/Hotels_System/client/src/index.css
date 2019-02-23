@@ -1,0 +1,125 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+
+header {
+	padding: 1rem;
+	background-color: rgb(155, 160, 165);
+}
+
+header a {
+	text-decoration: none;
+	color: white;
+	padding: 1rem;
+}
+
+.active {
+	background-color: rgb(102, 104, 105);
+}
+
+.container {
+	text-align: center;
+}
+
+form label {
+	display: block;
+}
+
+form input {
+	border: 1px solid black;
+    padding: 0.4rem 0.5rem;
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    outline: none;
+}
+
+form input[type="submit"] {
+	border: none;
+    color: white;
+    background: #9dbdba;
+    padding: 0.6rem 2rem;
+    font-size: 1.1rem;
+    margin-top: 0.5rem;
+	cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+    background: #6b8f8b;
+}
+
+form input::placeholder {
+	text-transform: capitalize;
+}
+
+header h2 {
+	display: inline;
+    font-size: 1.4rem;
+    color: #fff7f5;
+    margin-right: 1rem;
+}
+
+.hotels {
+	display: flex;
+	flex-direction: row;
+	margin: 0 auto;
+}
+
+.hotels img {
+	width: 100%;
+	height: 200px;
+}
+
+.hotel {
+	margin: 1rem 2rem;
+	padding: 1rem;
+	border: 1px solid black;
+	width: 26%;
+}
+
+.arrows a {
+	text-decoration: none;
+	font-size: 2rem;
+	padding: 0.3rem 0.7rem;
+	background-color: rgb(124, 116, 116);
+	color: white;
+	margin: 0 1rem;
+}
+
+.hotel button {
+	color: white;
+    border: none;
+    padding: 0.7rem 1.6rem;
+    font-size: 1.1rem;
+    background-color: #6c637d;
+    cursor: pointer;
+}
+
+.hotel-details {
+	width: 60%;
+    margin-top: 1rem;
+	padding: 1rem;
+	border: 2px solid black;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.hotel-details img {
+	width: 70%;
+	height: 300px;
+}
+
+.create-review {
+	text-align: center;
+}
+
+.review {
+	width: 80%;
+	padding: 1rem 2rem;
+	border: 1px solid black;
+	border-radius: 20px;
+	margin: 1.5rem auto;
+}
