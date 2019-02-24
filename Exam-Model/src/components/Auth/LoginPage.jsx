@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
+import { withRouter } from 'react-router-dom';
 import { toast } from 'react-toastify';
 import Input from '../common/Input';
 import { loginAction, redirect } from '../../actions/authActions';
@@ -75,4 +76,4 @@ function mapDispatch(dispatch) {
     };
 }
 
-export default connect(mapState, mapDispatch)(LoginPage);
+export default withRouter(connect(mapState, mapDispatch)(LoginPage));

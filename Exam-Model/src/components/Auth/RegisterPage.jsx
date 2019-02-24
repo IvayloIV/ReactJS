@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import Input from '../common/Input';
 import { toast } from 'react-toastify';
 import { connect } from 'react-redux';
+import { withRouter } from 'react-router-dom';
+import Input from '../common/Input';
 import {  loginAction, registerAction, redirect } from '../../actions/authActions';
 
 class RegisterPage extends Component {
@@ -92,4 +93,4 @@ function mapDispatch(dispatch) {
     };
 }
 
-export default connect(mapState, mapDispatch)(RegisterPage);
+export default withRouter(connect(mapState, mapDispatch)(RegisterPage));
