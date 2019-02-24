@@ -14,6 +14,7 @@
 4. [**Routing and Architecture**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-June-2018/Routing_and_Architecture)
 5. [**Higher-Order Components**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-June-2018/Higher-Order_Components)
 6. [**Intro to Redux**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-June-2018/Intro_to_Redux)
+7. [**Async Redux**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-June-2018/Async_Redux)
 
 ## <b>ReactJS - Exams</b>
 1. [**Furniture System**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Exams/Furniture_System)
