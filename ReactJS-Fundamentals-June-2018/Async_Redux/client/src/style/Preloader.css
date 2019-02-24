@@ -1,0 +1,30 @@
+.preloader {
+    position: fixed;
+    z-index: 4;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #537db4;
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 1rem 0;
+    animation: pulse 1s infinite;
+}
+    
+@keyframes pulse {
+    0% {
+        background-color: rgba(42, 65, 92, 0.5);
+        color: rgba(255, 255, 255, 0.5);
+    }
+    
+    50% {
+        background-color: #537db4;
+        color: white;
+    }
+    
+    100% {
+        background-color: rgba(42, 65, 92, 0.5);
+        color: rgba(255, 255, 255, 0.5);
+    }
+}
