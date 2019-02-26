@@ -6,6 +6,7 @@
 2. [**Components**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-February-2019/Components)
 3. [**Events and Forms**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-February-2019/Events_and_Forms)
 4. [**Routing and Architecture**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-February-2019/Routing_and_Architecture)
+5. [**Higher-Order Components**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-February-2019/Higher-Order_Components)
 
 ## <b>ReactJS Fundamentals - June 2018</b>
 1. [**Intro to React.js**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Fundamentals-June-2018/Intro_to_Reactjs)
