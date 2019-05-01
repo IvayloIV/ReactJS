@@ -24,3 +24,4 @@
 4. [**Hotels System**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Exams/Hotels_System)
 5. [**Spotify**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Exams/Spotify)
 6. [**UniEnt**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Exams/UniEnt)
+7. [**Movies**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Exams/Movies)
