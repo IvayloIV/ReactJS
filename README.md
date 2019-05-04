@@ -25,3 +25,4 @@
 5. [**Spotify**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Exams/Spotify)
 6. [**UniEnt**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Exams/UniEnt)
 7. [**Movies**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Exams/Movies)
+8. [**CookUni**](https://github.com/IvayloIV/ReactJS/tree/master/ReactJS-Exams/CookUni)
