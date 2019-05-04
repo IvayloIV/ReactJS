@@ -1,0 +1,11 @@
+export const AJAX_BEGIN = 'AJAX_BEGIN';
+export const AJAX_ERROR = 'AJAX_ERROR';
+
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+export const REDIRECTED = 'REDIRECTED';
+
+export const GET_ALL_RECIPES = 'GET_ALL_RECIPES';
+export const GET_RECIPE_DETAILS = 'GET_RECIPE_DETAILS';
+export const LIKE_RECIPE = 'LIKE_RECIPE';
